@@ -1,0 +1,25 @@
+.todo-items{
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 3px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+    height: 40px;
+    width: 98%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}
+.checkinp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.todo-items-buttons{
+    display: flex;
+    gap: 10px;
+}
+.checkbox:hover{
+    cursor: pointer;
+}
