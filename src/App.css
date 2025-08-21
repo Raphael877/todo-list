@@ -41,6 +41,11 @@
   color: #888;
 }
 
+.alltodo{
+  width: 100%;
+  display: flex;
+  gap: 20px;
+}
 .todo-app {
   background-color: #2c666e;
   border-radius: 8px;
